@@ -10,10 +10,6 @@ class Worker:
 
     def classify_img(self, img):
         # make api request
-        return  # result
-
-    def classify_img(self, img):
-        # make api request
         result = {}
         return result
 
